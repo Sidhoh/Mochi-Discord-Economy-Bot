@@ -1,6 +1,9 @@
-# Mochi
-
-A simple and easy economy bot 🤖!
+<h1 align="center">
+  Mochi
+</h1>
+<h2 align="center">
+  A simple and easy economy bot 🤖!
+</h>
 
 ## Screenshots
 
