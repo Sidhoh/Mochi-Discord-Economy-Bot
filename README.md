@@ -3,7 +3,7 @@
     <p>A simple and easy discord economy bot!</p>
 </div>
 
-## Screenshots
+## Demo
 
 ![App Screenshot](https://github.com/Sidohh/Mochi-Discord-Economy-Bot/blob/main/Demo.png)
 
