@@ -3,6 +3,11 @@
     <p>A simple and easy discord economy bot!</p>
 </div>
 
+## requirement
+- Node Js
+- Discord JS
+- discord-mongo-currency
+
 ## Demo
 
 ![App Screenshot](https://github.com/Sidohh/Mochi-Discord-Economy-Bot/blob/main/Demo.png)
