@@ -22,7 +22,7 @@ See [contributing.md](https://github.com/github/docs/blob/main/CONTRIBUTING.md) 
 Please adhere to this project's `code of conduct`.
 
   
-## Authors
+## Author
 
 - [@Sidh](https://github.com/Sidohh)
 
