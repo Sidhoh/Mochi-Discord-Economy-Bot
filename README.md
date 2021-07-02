@@ -1,6 +1,5 @@
 <div align="center">
     <h1 >Mochi</h1>
-    <p>A simple and easy discord economy bot!</p>
 </div>
 
 ## requirement
