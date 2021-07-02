@@ -1,9 +1,7 @@
-<h1 align="center">
-  Mochi
-</h1>
-<h2 align="center">
-  A simple and easy economy bot 🤖!
-</h>
+<div align="center">
+    <h1 >Mochi</h1>
+    <p>A simple and easy discord economy bot!</p>
+</div>
 
 ## Screenshots
 
