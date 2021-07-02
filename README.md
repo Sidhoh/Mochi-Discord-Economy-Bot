@@ -3,9 +3,9 @@
 </div>
 
 ## requirement
-- Node Js
-- Discord JS
-- discord-mongo-currency
+    - Node Js
+    - Discord JS
+    - discord-mongo-currency
 
 ## Demo
 
